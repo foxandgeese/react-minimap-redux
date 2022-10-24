@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/jeremy-carbonne/react-minimap",
   "dependencies": {
-    "lodash": "^4.17.4"
+    "lodash": "^4.17.21"
   },
   "peerDependencies": {
     "react": "^15.x || ^16.x"
