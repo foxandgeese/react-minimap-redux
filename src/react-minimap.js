@@ -63,7 +63,7 @@ export class Minimap extends React.Component {
     window.removeEventListener('resize', this.resize)
   }
 
-  componentWillReceiveProps(nextProps) {
+  UNSAFE_componentWillReceiveProps(nextProps) {
     if (nextProps.keepAspectRatio !== this.props.keepAspectRatio) {
       setTimeout(this.synchronize);
     } else if (nextProps.children !== this.props.children) {
