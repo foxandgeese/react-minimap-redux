@@ -17,8 +17,8 @@ A minimap for React based on
 ## Usage
 
 ```js
-import Minimap from "react-minimap";
-import "react-minimap/dist/react-minimap.css";
+import Minimap from "react-minimap-redux";
+import "react-minimap-redux/dist/react-minimap.css";
 ```
 
 ```html
