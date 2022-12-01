@@ -1,5 +1,5 @@
 - Originally forked from
-  [jeremy-carbonne/react-minimap](jeremy-carbonne/react-minimap)
+  [jeremy-carbonne/react-minimap](https://github.com/jeremy-carbonne/react-minimap)
 
 # react-minimap
 
