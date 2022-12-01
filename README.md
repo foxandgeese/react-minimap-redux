@@ -1,3 +1,5 @@
+- Originally forked from [jeremy-carbonne/react-minimap](jeremy-carbonne/react-minimap)
+
 # react-minimap
 
 [![NPM](https://img.shields.io/npm/v/react-minimap.svg?style=flat-square)](https://www.npmjs.com/package/react-minimap)
