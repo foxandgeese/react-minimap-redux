@@ -1,11 +1,11 @@
 {
-  "name": "react-minimap",
-  "version": "0.8.1-alpha-3",
+  "name": "react-minimap-redux",
+  "version": "0.9.0",
   "description": "A minimap for React",
   "main": "dist/react-minimap.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jeremy-carbonne/react-minimap.git"
+    "url": "https://github.com/foxandgeese/react-minimap-redux.git"
   },
   "keywords": [
     "react-minimap",
@@ -22,7 +22,7 @@
     "lodash": "^4.17.21"
   },
   "peerDependencies": {
-    "react": "^15.x || ^16.x"
+    "react": "^16.8 || ^17 || ^18"
   },
   "devDependencies": {
     "autoprefixer": "7.1.2",
